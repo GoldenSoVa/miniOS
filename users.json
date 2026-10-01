@@ -1,0 +1,12 @@
+{
+  "student": {
+    "password_salt": "5e15203b8e2417ae25f618df4826f2b5",
+    "password_hash": "22924c8ffabaec4d07831855f245098a84eb455d4027eb32662ba941e38470ee",
+    "settings": {
+      "theme": "sky",
+      "background": "blue",
+      "wallpaper": "",
+      "show_seconds": false
+    }
+  }
+}
